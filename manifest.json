@@ -1,0 +1,13 @@
+{
+        "name": "75 BOSS",
+        "short_name": "75Boss",
+        "start_url": "index.html",
+        "display": "standalone",
+        "background_color": "#2c1e1e",
+        "theme_color": "#8a3b12",
+        "icons": [{
+            "src": "icon.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }]
+    }
